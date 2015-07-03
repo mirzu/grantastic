@@ -1,0 +1,19 @@
+{
+  "name": "grantastic",
+  "version": "0.0.1",
+  "description": "Grants.gov improved REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mirzu/grantastic.git"
+  },
+  "author": "Michal Minecki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirzu/grantastic/issues"
+  },
+  "homepage": "https://github.com/mirzu/grantastic#readme"
+}
